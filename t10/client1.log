@@ -1,0 +1,10 @@
+Script started on Tue 19 Mar 2019 12:24:46 PM EDT
+khokha59@dh2020pc03:~/209_repo/t10$ ./randclient 127.0.0.1
+connect: Connection refused
+khokha59@dh2020pc03:~/209_repo/t10$ ./randclient 127.0.0.1
+connect: Connection refused
+khokha59@dh2020pc03:~/209_repo/t10$ ./randclient 127.0.0.1
+khokha59@dh2020pc03:~/209_repo/t10$ exit
+exit
+
+Script done on Tue 19 Mar 2019 12:31:24 PM EDT

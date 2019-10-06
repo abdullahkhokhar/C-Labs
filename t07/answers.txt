@@ -1,0 +1,17 @@
+===== Question 1 =====
+B
+E
+===== Question 2 =====
+ABCBDEE, ABCBEDE, ABCDBEE
+ABBCDEE, ABBCEDE, ABBDECE, ABBDCEE
+ABDBCEE, ABDBECE, ABDCBEE
+Total orderings = 10
+===== Question 3 =====
+16
+===== Question 4 =====
+415 -> 416 -> 417 -> 418
+416 -> 419
+417 -> 420
+415 -> 422 -> 423
+422 -> 430
+415 -> 440

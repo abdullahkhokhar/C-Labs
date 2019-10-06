@@ -1,0 +1,6 @@
+gcc -Wall -g -o checkpasswd checkpasswd.c
+checkpasswd.c: In function ‘main’:
+checkpasswd.c:76:5: warning: null argument where non-null required (argument 2) [-Wnonnull]
+     execl("./validate", NULL);
+     ^~~~~
+checkpasswd.c:76:5: warning: not enough variable arguments to fit a sentinel [-Wformat=]
